@@ -9,7 +9,7 @@
 - Bootstrap
 - Git
 
-### Ссылка на проект: 
+#### Ссылка на проект: 
 
 - https://ilyahf.github.io/js-cp-diploma-edited/
 
